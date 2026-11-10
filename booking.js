@@ -17,7 +17,7 @@
   }
 
   const script = document.createElement('script');
-  script.src = 'https://tidycal.com/js/embed.js';
+  script.src = 'https://asset-tidycal.b-cdn.net/js/embed.js';
   script.async = true;
   document.body.appendChild(script);
 })();
